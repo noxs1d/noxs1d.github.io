@@ -1,0 +1,30 @@
+body
+{
+    background-color: black; 
+    
+}
+h1 {
+    color: midnightblue;
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px white;
+}
+h2 {
+    color: aquamarine;
+    margin-left: 20px;
+}
+ul{
+    color:dodgerblue;
+}
+ol{
+    color:dodgerblue;
+}
+h4{
+    color:dodgerblue;
+}
+p{
+    color:darkturquoise;
+}
+strong{
+    color:orangered;
+}
